@@ -4,7 +4,6 @@ Saya ${botname}, Bot Ini Adalah Beta Multi-Device WhatsApp.
 Jika Ada Fitur Error Atau Bug Segera Lapor Ke Owner Bot
 
   *INFO BOT*
-  👑 Creator : *Lexxy Official*
   👤 Owner : *${ownername}*
   🤖 Bot Name : *${botname}*
   📑 Tanggal : *${tanggal}*
@@ -479,11 +478,6 @@ Thanks!
   *❏* Jadi Bot 15k Tidak Owner (1 minggu)
   *❏* Jadi Bot + Owner 20k (1 bulan)
   *❏* Jadi Bot + Owner 25k (Permanen)
-
-  *JASA RUN BOT*
-  *❏* Run Bot 15k (1 minggu)
-  *❏* Run Bot 20k (1 bulan)
-  *❏* Run Bot 25k (Permanen)
 
   *Minat? Langsung chat aja ya cuy 🐦*
 
