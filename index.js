@@ -936,7 +936,7 @@ await kagura.groupUpdateDescription(m.chat, text).then((res) => reply(mess.succe
 break
 case 'setbiobot':{
 if (!isCreator) return reply(mess.owner)
-if (args.length < 1) return reply(`Mau Di Ganti Apa\nContoh ${prefix + command} Lexxy Official`)
+if (args.length < 1) return reply(`Mau Di Ganti Apa\nContoh ${prefix + command} BotWa`)
 kagura.setStatus(q)
 .then((res) => reply('Bio diupdate.'))
 .catch((err) => reply('Gagal'))
